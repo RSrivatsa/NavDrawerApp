@@ -16,13 +16,22 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
+                          </intent-filter>
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name=".UnderINR10" />
         <activity android:name=".UnderINR20" />
         <activity android:name=".UnderINR30" />
-        <activity android:name=".AboveINR30"></activity>
+        <activity android:name=".AboveINR30" />
     </application>
 
 </manifest>
