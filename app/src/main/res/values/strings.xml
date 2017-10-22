@@ -5,18 +5,19 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-    <string name="k6power">Lenovo K6 Power Full specs
+    <string name="k6power">Lenovo K6 Power Full specs \n
+        \n
+        5-inch Full HD (1920x1080p)  IPS Display \n
+ Snapdragon 430 processor coupled with Adreno 505 GPU \n
+ 4GB RAM  4GB RAM \n
 
-5-inch Full HD (1920x1080p)  IPS Display
-Snapdragon 430 processor coupled with Adreno 505 GPU
-4GB RAM
-32GB internal storage with MicroSD Card support up to 128GB
-13MP Rear Camera, PDAF, LED Flash, 1080p Recording, Sony IMX258 sensor
-8MP Front Camera
-Android 6.0.1 Marshmallow  with Vibe UI
-4000mAh  Battery
-Fingerprint sensor, Metal Build, Dolby Atmos stereo speakers
-4G with VoLTE, WiFi, Bluetooth 4.1, GPS, FM Radio</string>
+ 32GB internal storage with MicroSD Card support up to 128GB \n
+ 13MP Rear Camera, PDAF, LED Flash, 1080p Recording, Sony IMX258 sensor \n
+ 8MP Front Camera \n
+ Android 6.0.1 Marshmallow  with Vibe UI \n
+ 4000mAh  Battery \n
+ Fingerprint sensor, Metal Build, Dolby Atmos stereo speakers \n
+ 4G with VoLTE, WiFi, Bluetooth 4.1, GPS, FM Radio \n</string>
 
     <string name="title_activity_splash_screen">SplashScreen</string>
     <string name="dummy_button">Dummy Button</string>

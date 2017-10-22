@@ -15,8 +15,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
-                          </intent-filter>
+            </intent-filter>
         </activity>
         <activity
             android:name=".SplashScreen"
@@ -32,6 +31,7 @@
         <activity android:name=".UnderINR20" />
         <activity android:name=".UnderINR30" />
         <activity android:name=".AboveINR30" />
+        <activity android:name=".K6Specs"></activity>
     </application>
 
 </manifest>
